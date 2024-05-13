@@ -42,16 +42,16 @@ https://ftp.ensembl.org/pub/release-106/fasta/gallus_gallus/dna/
 - Trimmomatic, Alignment, Sorting, Duplicated remove, Merge 등 진행
 - LHX9 유전자 발현양 비교
 
+![image](https://github.com/HappyJieun/ATAC-seq/assets/166107244/d18a6db7-cace-4f54-a838-c5c0e4580cb8)
   
-  ![image](https://github.com/HappyJieun/ATAC-seq/assets/166107244/20a7c2aa-6af2-4ce6-b554-c62b804e569a)
-
-
 <br/>
 
 **(2) Review**
 
 - 4가지 성장 단계에서 LHX9 유전자 발현 차이 확인
-![image](https://github.com/HappyJieun/ATAC-seq/assets/166107244/0a0f63fd-d43a-4eb3-b418-931eadc35a77)
+
+![image](https://github.com/HappyJieun/ATAC-seq/assets/166107244/0931c0b7-093f-4e89-b615-757a4059ce3d)
+
 
 - 유전자 발현과 염색체 접근성 사이의 상관관계 확인
 - 성별 결정과 비대칭성 골난성 발달의 연관성 확인
