@@ -41,8 +41,10 @@ https://ftp.ensembl.org/pub/release-106/fasta/gallus_gallus/dna/
 
 - Trimmomatic, Alignment, Sorting, Duplicated remove, Merge 등 진행
 - LHX9 유전자 발현양 비교
+
   
   ![image](https://github.com/HappyJieun/ATAC-seq/assets/166107244/20a7c2aa-6af2-4ce6-b554-c62b804e569a)
+
 
 <br/>
 
